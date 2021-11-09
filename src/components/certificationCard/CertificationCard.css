@@ -9,6 +9,11 @@
   flex: 0 0 30%;
   transition: all 0.2s ease-in-out;
 }
+.cert-card a {
+  color: aliceblue;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
 
 .cert-header {
   margin: 0px;
@@ -16,9 +21,10 @@
 }
 
 .logo_img {
-  margin: 3px;
-  width: auto;
-  height: 100px;
+  margin: 3px 0 3px 0;
+  width: 10px;
+  height: 5px;
+  display: ruby;
 }
 
 .cert-body {

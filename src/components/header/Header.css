@@ -170,7 +170,7 @@
 }
 
 .cr {
-  margin: 2px 5px 20px;
+  margin: 2px 25px 20px;
   transition: all 0.2s ease-in-out;
   color: #ffffff;
 }
@@ -180,10 +180,13 @@
   background-color: #47a148;
   color: #ffffff !important;
 }
+/* .bt{
+  margin-left: 50px;
+} */
 
 /* 48em = 768px */
 
-@media (min-width: 48em) {
+@media (min-width: 47em) {
   .header li {
     float: left;
   }
@@ -215,8 +218,16 @@
     text-align: center;
   }
 }
-@media (max-width: 960px) and (min-width: 768px) {
+@media (max-width: 1024px) and (min-width: 768px) {
   .header {
     font-size: 12px;
+  }
+  .header li button .outer {
+    position: relative;
+  }
+
+  .header li button .inner {
+    position: absolute;
+    right: 0px;
   }
 }

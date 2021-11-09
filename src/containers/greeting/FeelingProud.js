@@ -34,7 +34,7 @@ function FeelingProud(props) {
         <path
           id="path7"
           d="M177.5,221.6c0,0,3.3,23.5,0,27.7s-14.5,0-16-5.8c-1.5-5.8-1.5-5.8-1.5-5.8s-0.2-6.8,2.9-9.2        c3.1-2.4,3.4-2.7,3.4-2.7L177.5,221.6z"
-          fill="#D3B39B"
+          fill="#D2B37B"
         />
         <path
           id="path9"
@@ -53,8 +53,8 @@ function FeelingProud(props) {
         <g id="ccc">
           <rect
             id="rect15"
-            height="47"
-            width="27"
+            height="52"
+            width="32"
             fill={theme.skinColor}
             y="147.5"
             x="105.5"
@@ -381,7 +381,7 @@ function FeelingProud(props) {
               <path
                 id="path202"
                 d="M212.5,295.1c0,1.9-1.5,3.4-3.4,3.4H33.9c-1.9,0-3.4-1.5-3.4-3.4v-1.3c0-1.9,1.5-3.4,3.4-3.4h175.3              c1.9,0,3.4,1.5,3.4,3.4V295.1z"
-                fill="#7F8DAA"
+                fill="#0C0B0B"
               />
             </g>
             <g id="g208">

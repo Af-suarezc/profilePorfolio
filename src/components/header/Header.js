@@ -14,7 +14,7 @@ function Header(props) {
     cursor: "pointer",
     height: "45px",
     width: "45px",
-    marginRight: "5px",
+    marginRight: "15px",
     marginLeft: "15px",
     paddingTop: "5px",
     borderRadius: "50%",
@@ -63,7 +63,7 @@ function Header(props) {
     );
 
   return (
-    <Fade top duration={1000} distance="20px">
+    <Fade top duration={1000} distance="10px">
       <div>
         <header className="header">
           <NavLink to={link} tag={Link} className="logo">
@@ -133,7 +133,7 @@ function Header(props) {
                 Contact and Resume
               </NavLink>
             </li>
-            <button {...styles} onClick={changeTheme}>
+            <button className="themebt" {...styles} onClick={changeTheme}>
               {icon}
             </button>
           </ul>
