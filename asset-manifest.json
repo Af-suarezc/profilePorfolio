@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/profilePorfolio/static/css/main.0f49d477.chunk.css",
+    "main.js": "/profilePorfolio/static/js/main.d36dffdb.chunk.js",
+    "main.js.map": "/profilePorfolio/static/js/main.d36dffdb.chunk.js.map",
+    "runtime-main.js": "/profilePorfolio/static/js/runtime-main.42e5684c.js",
+    "runtime-main.js.map": "/profilePorfolio/static/js/runtime-main.42e5684c.js.map",
+    "static/js/2.e3c67b19.chunk.js": "/profilePorfolio/static/js/2.e3c67b19.chunk.js",
+    "static/js/2.e3c67b19.chunk.js.map": "/profilePorfolio/static/js/2.e3c67b19.chunk.js.map",
+    "index.html": "/profilePorfolio/index.html",
+    "static/css/main.0f49d477.chunk.css.map": "/profilePorfolio/static/css/main.0f49d477.chunk.css.map",
+    "static/js/2.e3c67b19.chunk.js.LICENSE.txt": "/profilePorfolio/static/js/2.e3c67b19.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/profilePorfolio/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/ContactComponent.css": "/profilePorfolio/static/media/Andres.71243042.svg",
+    "static/media/all.css": "/profilePorfolio/static/media/fa-solid-900.decfdcb6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42e5684c.js",
+    "static/js/2.e3c67b19.chunk.js",
+    "static/css/main.0f49d477.chunk.css",
+    "static/js/main.d36dffdb.chunk.js"
+  ]
+}
