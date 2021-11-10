@@ -2,6 +2,7 @@
   "private": true,
   "name": "andres-profile",
   "version": "0.1.0",
+  "homepage": "http://Af-suarezc.github.io/profilePorfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
